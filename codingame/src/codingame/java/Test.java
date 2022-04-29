@@ -70,7 +70,7 @@ public class Test {
 		  
 		   Integer[] numbers = {1, 4, 8,6,2};
 	       Integer[] tab = {1,2, 4,10,16, 32,50,199};
-	       System.out.println(findNetworkEndPoint(1,numbers,tab));
+	       //System.out.println(findNetworkEndPoint(1,numbers,tab));
 	       
 	  }
 	  
